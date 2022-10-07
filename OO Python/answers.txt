@@ -1,0 +1,39 @@
+1. Mutable
+2. set_1={}
+3. Immutable
+4. {'v', 4, 6.9, 'e'}
+5.oth Strings and Tuples
+6.3
+7.[2, -1, 4, 4, 1, 6, 5, 2, 7, 9, 6, 11,10, 7, 12, 1, -2, 3]
+8.[1, -3, 0, 6]
+9.['A', 'B', 'C', 'D', 'E', 'F', 'G']
+10.Positive, negative
+11.[16, 25, 24]
+12.dlroW olleH
+13.'i' ‘end’
+14.print(reduce(lambda x,y: x if x<y else y,[-3,2,9,0]))
+15.0 1 4
+16.Pass statement
+17.23
+18.list
+19.None pf the above
+20. 63
+21.BlueGreenOrange 
+22.AttributeError
+23 .Inheritance
+24.To listen
+25.dic[7][1]
+26.1.2 0.4 6.5
+27.{}
+28.The process of calling the function within itself
+29 Python 
+30 False True False True False
+31 RecursionError
+32.0 0
+33.Not a car
+34.String “Bananas” is printed once
+35.Built-in
+36.['modules'] False
+37.getcwd()
+HAPPY WEEKEND!39.Sam 24
+Thank YOU
